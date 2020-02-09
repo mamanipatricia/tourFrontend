@@ -7,7 +7,8 @@
 
 ## Installing parcel and http-server
 
-``` $ npm i parcel-bundler
+```
+    $ npm i parcel-bundler
 
     $ npm i http-server -g
 ```
